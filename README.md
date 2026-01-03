@@ -2,12 +2,6 @@
 
 Quantum 6G: Global Quantum Communication Network
 
-<div align="center">https://img.shields.io/badge/Quantum-6G-blueviolet
-https://img.shields.io/badge/License-Quantum%20Open%20Research-green
-https://img.shields.io/badge/Status-Active%20Research-red
-https://img.shields.io/badge/Python-3.10%2B-blue
-https://img.shields.io/badge/Contributions-Welcome-orange
-
 The world's first open-source implementation of a satellite-based quantum communication network
 
 </div>📋 Overview
